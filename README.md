@@ -6,7 +6,7 @@ dimensionamiento de estructuras y piezas sometidas a distintos esfuerzos. Esto i
 
 
 
-## Temas
+## Clases
 1. Solicitaciones simples y compuestas en barras rectas y curvas
 
 2. Deformaciones en vigas 
