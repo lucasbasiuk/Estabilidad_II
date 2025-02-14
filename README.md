@@ -7,23 +7,25 @@ dimensionamiento de estructuras y piezas sometidas a distintos esfuerzos. Esto i
 
 
 ## Clases
-1. Solicitaciones simples y compuestas en barras rectas y curvas
+0. Repaso de Estabilidad I
+   
+2. Solicitaciones simples y compuestas en barras rectas y curvas
 
-2. Deformaciones en vigas 
+3. Deformaciones en vigas 
 
-3. Torsión de barras de sección circular
+4. Torsión de barras de sección circular
 
-4. Energía de deformación 
+5. Energía de deformación 
 
-5. Cargas dinámicas: impacto
+6. Cargas dinámicas: impacto
 
-6. Cargas cíclicas: fatiga 
+7. Cargas cíclicas: fatiga 
 
-7. Tensiones y deformaciones de origen térmico 
+8. Tensiones y deformaciones de origen térmico 
 
-8. Esfuerzos combinados: tensiones combinadas 
+9. Esfuerzos combinados: tensiones combinadas 
 
-9. Teoría de falla 
+10. Teoría de falla 
 
 
 ---
