@@ -1,8 +1,7 @@
 # Estabilidad II UTN La Plata
 
-Este curso se trata de una materia básica en el campo de las estructuras; la que se dirige principalmente hacia
-la formación de los y las estudiantes en los conocimientos y aplicaciones de la teoría elástica; y el análisis y
-dimensionamiento de estructuras y piezas sometidas a distintos esfuerzos. Esto implica que puedan resolver, diseñar, verificar o dimensionar una estructura mecánica cualquiera que se les presente u ocurra.
+Este curso se trata de una materia básica en el campo de las estructuras que se dirige principalmente hacia
+la formación de los y las estudiantes en los conocimientos y aplicaciones de la teoría elástica, el análisis de estructuras y piezas sometidas a distintos esfuerzos. Esto implica que puedan resolver, diseñar, verificar o dimensionar una estructura mecánica. 
 
 
 
