@@ -6,25 +6,23 @@ la formación de los y las estudiantes en los conocimientos y aplicaciones de la
 
 
 ## Clases
-0. Repaso de Estabilidad I
-   
-2. Solicitaciones simples y compuestas en barras rectas y curvas
+### 1. Repaso de Estabilidad I.  Solicitaciones simples y compuestas en barras rectas y curvas.
 
-3. Deformaciones en vigas 
+### 2. Deformaciones en vigas 
 
-4. Torsión de barras de sección circular
+### 3. Torsión de barras de sección circular
 
-5. Energía de deformación 
+### 4. Energía de deformación 
 
-6. Cargas dinámicas: impacto
+### 5. Cargas dinámicas: impacto
 
-7. Cargas cíclicas: fatiga 
+### 6. Cargas cíclicas: fatiga 
 
-8. Tensiones y deformaciones de origen térmico 
+### 7. Tensiones y deformaciones de origen térmico 
 
-9. Esfuerzos combinados: tensiones combinadas 
+### 8. Esfuerzos combinados: tensiones combinadas 
 
-10. Teoría de falla 
+### 9. Teoría de falla 
 
 
 ---
